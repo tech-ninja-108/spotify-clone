@@ -1,0 +1,19 @@
+.border{
+    border: 2px solid white;
+}
+.invert{
+    filter: invert(1);
+    width: 40px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cursor{
+    cursor: pointer;
+}
+.some{
+    margin-top: 7px;
+    cursor: pointer;
+}
